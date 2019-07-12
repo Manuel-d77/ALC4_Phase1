@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="activity_about">About ALC</string>
+    <string name="activity_profile">My Profile</string>
+    <string name="name">Emmanuel Agyei Darko</string>
+    <string name="track">Track : Android</string>
+    <string name="country">Country : Ghana</string>
+    <string name="email">Email : mydarko77@gmail.com</string>
+    <string name="phone_number_233262762064">Phone Number : +233262762064</string>
+    <string name="slack_username">Slack Username : Emmanuel</string>
+    <string name="photo">my photo</string>
+</resources>
